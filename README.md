@@ -74,20 +74,4 @@
 
 ---
 
-### 🎯 2026 Goals
-
-| Goal | Progress |
-|------|----------|
-| 🚀 Launch Pokerlyze | `████████░░` 80% |
-| 💻 LeetCode 300 Problems | `██████░░░░` 60% |
-| 🏋️ Gym 100 Times | `████░░░░░░` 40% |
-| 🃏 WSOP Cash Once | `██░░░░░░░░` 20% |
-
----
-
-### 🐱 Random Cat
-
-<img src="https://cataas.com/cat/gif" width="300" />
-
----(https://komarev.com/ghpvc/?username=xyww289&color=6C63FF&style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=xyww289&color=6C63FF&style=flat-square)
