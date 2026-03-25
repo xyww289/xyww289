@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Xinyi;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Xinyi;Software+Engineer;Founder+%40+Rivix.AI;Building+Pokerlyze+%E2%99%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 💻 SDE · 🎓 UC Irvine · 📍 Santa Clara · ♠️ Poker lover · 🏆 Pokémon TCG collector
 
