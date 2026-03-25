@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Xinyi;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-💻 SDE · 🎓 UC Irvine · 📍 Santa Clara · 🃏 Poker lover
+💻 SDE · 🎓 UC Irvine · 📍 Santa Clara · ♠️ Poker lover · 🏆 Pokémon TCG collector
 
 ---
 
 ### 🚀 Currently Building
 
-🃏 **[Pokerlyze](https://www.pokerlyze.com/)** @ [Rivix.AI](https://github.com/RivixAI) — An AI-powered poker analysis platform that turns hand histories into tactical insights. Features automated leak detection, GTO solver lab, and live range training for serious players.
+♠️ **[Pokerlyze](https://www.pokerlyze.com/)** @ [Rivix.AI](https://github.com/RivixAI) — An AI-powered poker analysis platform that turns hand histories into tactical insights. Features automated leak detection, GTO solver lab, and live range training for serious players.
 
 ---
 
