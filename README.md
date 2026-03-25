@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Xinyi;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-🎓 UC Irvine · 📍 Santa Clara · 🏠 Working from home
+💻 SDE · 🎓 UC Irvine · 📍 Santa Clara · 🃏 Poker lover
+
+---
+
+### 🚀 Currently Building
+
+🃏 **[Pokerlyze](https://www.pokerlyze.com/)** @ [Rivix.AI](https://github.com/RivixAI) — An AI-powered poker analysis platform that turns hand histories into tactical insights. Features automated leak detection, GTO solver lab, and live range training for serious players.
 
 ---
 
@@ -22,10 +28,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🏠 StayBooking](https://github.com/xyww289/staybooking) | A stay booking platform | Java, Spring |
-| [🚀 Jupiter](https://github.com/xyww289/jupiter) | Content-based job recommendation | JavaScript |
-| [🔗 Starlink](https://github.com/xyww289/starlink) | SpaceX Starlink trajectory visualization | JavaScript |
-| [🃏 BlackJack](https://github.com/xyww289/BlackJack) | Classic card game | Java |
+| [🔒 AI Developer Platform](https://github.com/xyww289) | Subscription & metering system for AI dev tools | AWS |
+| [☁️  AWS Server Migration](https://github.com/xyww289) | Migrated server to AWS Step Functions + Lambda at Amazon internship, reduced 128 maintenance tickets/year | Java, AWS CDK, Step Functions, Lambda |
+| [🤖  PapyrusAI](https://github.com/xyww289) | AI-powered tutoring tool for higher education, built with UCI & NSF grant | React, AWS Serverless, GPT-4 |
+| [🏠  StayBooking](https://github.com/xyww289/staybooking) | Airbnb-like rental platform with geo-based search via Elasticsearch | Java, Spring Boot, React, Elasticsearch |
+| [🗺️  BSmarTrip](https://github.com/xyww289) | Travel planning app with route optimization using Google Maps & RapidAPI | Spring Security, Elasticsearch, REST API |
+| [🧠  Cat & Dog CNN](https://github.com/xyww289) | Image recognition model using Convolutional Neural Network | Python, Deep Learning |
 
 ---
 
