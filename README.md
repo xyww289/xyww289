@@ -74,4 +74,10 @@
 
 ---
 
+### 😂 Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+---
+
 ![Visitors](https://komarev.com/ghpvc/?username=xyww289&color=6C63FF&style=flat-square)
