@@ -61,18 +61,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔒 AI Developer Platform](https://github.com/xyww289) | Subscription & metering system for AI dev tools | AWS |
-| [☁️  AWS Server Migration](https://github.com/xyww289) | Migrated server to AWS Step Functions + Lambda at Amazon internship, reduced 128 maintenance tickets/year | Java, AWS CDK, Step Functions, Lambda |
-| [🤖  PapyrusAI](https://github.com/xyww289) | AI-powered tutoring tool for higher education, built with UCI & NSF grant | React, AWS Serverless, GPT-4 |
-| [🏠  StayBooking](https://github.com/xyww289/staybooking) | Airbnb-like rental platform with geo-based search via Elasticsearch | Java, Spring Boot, React, Elasticsearch |
-| [🗺️  BSmarTrip](https://github.com/xyww289) | Travel planning app with route optimization using Google Maps & RapidAPI | Spring Security, Elasticsearch, REST API |
-| [🧠  Cat & Dog CNN](https://github.com/xyww289) | Image recognition model using Convolutional Neural Network | Python, Deep Learning |
-
----
 
 <!--
 ### 📊 GitHub Stats
