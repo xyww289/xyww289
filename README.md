@@ -5,12 +5,6 @@ Software engineer with a focus on full-stack development and AI-powered applicat
 🎓 UC Irvine · 📍 Santa Clara  
 ♠️ Poker enthusiast · Pokémon TCG collector
 
-## Selected Work
-
-### [Pokerlyze](https://www.pokerlyze.com/) · [Rivix.AI](https://github.com/RivixAI)
-
-An AI-powered poker analysis platform that turns hand histories into actionable insights, with automated leak detection, a GTO solver lab, and range training.
-
 ## Tech Stack
 
 - **Languages:** Java, TypeScript, Python, SQL
