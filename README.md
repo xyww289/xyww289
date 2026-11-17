@@ -1,16 +1,24 @@
-# Hi, I'm Xinyi 👋
+## Hi, I'm Xinyi 👋
 
-Software engineer with a focus on full-stack development and AI-powered applications.
+Software engineer focused on **backend systems and AI-powered developer tools**:
+building the services, APIs, and infrastructure that put LLM agents into real products.
 
-🎓 UC Irvine · 📍 Santa Clara  
-♠️ Poker enthusiast · Pokémon TCG collector
+🎓 UC Irvine · 📍 Bay Area
 
-## Tech Stack
+### What I work on
 
-- **Languages:** Java, TypeScript, Python, SQL
-- **Applications:** React, Next.js, Spring Boot, Node.js
-- **Infrastructure:** AWS, Docker, PostgreSQL, Redis
+- Backend services for AI agents: orchestration, tool calling, reliability
+- Scalable APIs and cloud infrastructure on AWS
+- Full-stack apps with React / Next.js
 
-## Connect
+### Tech Stack
+
+- **Languages:** TypeScript, Java, Python, SQL
+- **Frameworks:** Node.js, Next.js, React, Spring Boot
+- **Infra & Data:** AWS, Docker, PostgreSQL, Redis
+
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/wxyi/)
+
+<sub>Off the keyboard: card games & Pokémon TCG 🃏</sub>
