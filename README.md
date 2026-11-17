@@ -20,5 +20,3 @@ building the services, APIs, and infrastructure that put LLM agents into real pr
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/wxyi/)
-
-<sub>Off the keyboard: card games & Pokémon TCG 🃏</sub>
